@@ -1,4 +1,4 @@
-# BackupServer
+# ServerBackup
 These shell scripts are built for backup the server important data. We designed several well-known backup situations that include websites, databases, and configurations respectively.
 
 ## Deployment instructions
